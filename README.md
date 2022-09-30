@@ -1,4 +1,4 @@
-# semantic_clustering
+# Semantic Clustering
 About App to compare state-of-the-art models for semantic clustering task
 
 
