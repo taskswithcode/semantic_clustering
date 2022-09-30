@@ -1,0 +1,4 @@
+{
+"Overlapped clustering (cluster size determined by zscore)": {"type":"overlapped"},
+"Non-overlapped clustering (overlapped clusters aggregated)":{"type":"non-overlapped"}
+}
