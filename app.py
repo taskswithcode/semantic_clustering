@@ -29,7 +29,7 @@ from transformers import BertTokenizer, BertForMaskedLM
 
 
 APP_NAME = "twc/semantic_clustering"
-INFO_URL = "http://www.taskswithcode.com/stats/"
+INFO_URL = "https://www.taskswithcode.com/stats/"
 
 
 
